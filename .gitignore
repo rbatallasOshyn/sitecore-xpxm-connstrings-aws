@@ -1,0 +1,13 @@
+.vs
+/src/*/bin
+/src/*/obj
+*.user
+*.suo
+*.log
+*.tlog
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.exp
+*.lib
